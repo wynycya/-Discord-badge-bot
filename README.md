@@ -7,5 +7,5 @@
   - secret.json in there
   - make in '{ "token": "TOKEN" }' your token
 
-## after all of that
+## after all of that:
   - launch start
