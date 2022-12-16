@@ -10,7 +10,7 @@
 
 ## Go in src folder of the bot then:
   - secret.json in there
-  - make in '{ "token": "TOKEN" }' your token
+  - make in '{ "token": "TOKEN" }' your token (change the big on not the small one)
 
 ## after all of that:
   - launch start
