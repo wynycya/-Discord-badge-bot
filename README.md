@@ -14,6 +14,8 @@
 
 ## after all of that:
   - launch start
+  - wait 24h and go in https://discord.com/developers/active-developer
+  - thats it you have your badge
 
 ## Help link:
   - https://www.youtube.com/watch?v=OkeBiljbHuo
