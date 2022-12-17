@@ -14,6 +14,7 @@
 
 ## after all of that:
   - launch start
+  - do /ping command in channel  
   - wait 24h and go in https://discord.com/developers/active-developer
   - thats it you have your badge
 
